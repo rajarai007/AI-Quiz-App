@@ -15,7 +15,7 @@ class _QuizScreenState extends State<QuizScreen> {
 
   // Timer related variables
   late Timer _timer;
-  int _timeLeft = 30; // 30 seconds per question
+  int _timeLeft = 30; 
 
   @override
   void initState() {
